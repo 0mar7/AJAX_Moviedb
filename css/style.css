@@ -1,0 +1,12 @@
+body
+{
+    /* font-family: 'Segoe UI light'; */
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(../images/pic2.jpg);
+}
+
+.transparent
+{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.img-item {border-radius: 20px;}
